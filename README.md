@@ -6,6 +6,8 @@ HTML Documents & Tags
  <h1>HTML Documents</h1>
  <p>The <b>!DOCTYPE</b> tag html declaration defines that this document is an HTML5 document.</p>
     <p>The <b>html</b> tag element is the root element of an HTML page.</p>
-    <p>The <b>head</b> tag element contains meta information about the HTML page.</p> 
+    <p>The <<b>head</b>> tag element contains meta information about the HTML page.</p> 
     <p>The <b>title</b> tag element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab).</p>
     <p>The <b>body</b> tag element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.</p>
+
+
