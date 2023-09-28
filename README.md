@@ -14,7 +14,7 @@ HTML Documents & Tags
 <p>HTML (Hypertext Markup Language) consists of a wide range of elements that define the structure and content of a web page. HTML elements are the building blocks of web documents and are represented by tags, which are enclosed in angle brackets. Each element can have attributes that provide additional information about the element. Here are some common HTML elements:</p>
 
 <h2>Basic Structure Elements:</h2>
-<<b><html></b>>: Represents the root of an HTML document.
+<<b>html</b>>: Represents the root of an HTML document.
 
 
 
